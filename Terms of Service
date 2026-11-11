@@ -1,52 +1,154 @@
+Terms of Service
+
+Effective Date: November 10, 2026
+
+These Terms of Service ("Terms") govern your use of Uni-Chan Thorium ("the Bot", "Uni-Chan Thorium", "the Project"). By using the Bot, you agree to these Terms.
+
 1. Acceptance of Terms
-By using this application ("Bot"), you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, you may not use the Bot.
+
+By interacting with Uni-Chan Thorium, you agree to comply with these Terms of Service, Discord's Terms of Service, and all applicable laws and regulations.
+
+If you do not agree to these Terms, you must stop using the Bot.
 
 2. Authorized Server Restriction
-The Bot is licensed and authorized for use exclusively within the Discord server named "Thorium Beta."
 
-Use of the Bot in any other Discord server, community, guild, group, or environment is strictly prohibited.
+Uni-Chan Thorium is a private experimental AI project and is only authorized for use in the following Discord servers:
 
-3. Server Limitation
-The Bot may only:
+Thorium Beta
+CC: Cosmic Community
 
-Join the Discord server Thorium Beta.
-Process commands and interactions originating from Thorium Beta.
-Store data necessary for operation within Thorium Beta.
-The Bot owner reserves the right to remove, disable, or restrict the Bot if it is invited to, used in, or attempts to operate in any server other than Thorium Beta.
+Use of the Bot outside of these authorized servers is prohibited unless explicitly approved by the Bot owner.
 
-4. Prohibited Uses
-Users may not:
+Any invitation, deployment, cloning, hosting, distribution, or operation of Uni-Chan Thorium in any other Discord server is unauthorized.
 
-Add or attempt to add the Bot to any server other than Thorium Beta.
-Modify, reverse engineer, exploit, or interfere with the Bot's operation.
-Use the Bot for unlawful, harmful, abusive, or disruptive activities.
-Circumvent any restrictions designed to limit the Bot's operation to Thorium Beta.
-5. Availability
-The Bot is provided on an "as-is" and "as-available" basis. Availability is not guaranteed, and the Bot may be modified, suspended, restricted, or terminated at any time without notice.
+3. Availability
 
-6. Data Collection
-The Bot may process and temporarily store:
+Uni-Chan Thorium is provided exclusively within:
 
-Discord User IDs
-Server IDs
-Message content used for commands
-Configuration data required for operation
-This information is used solely to provide Bot functionality within Thorium Beta.
+Thorium Beta
+CC: Cosmic Community
 
-7. Termination
-Access to the Bot may be restricted or revoked at any time, with or without notice, for any reason, including violation of these Terms.
+The Bot owner may:
 
-8. Disclaimer of Warranties
-The Bot is provided without warranties of any kind, express or implied. The Bot owner makes no guarantee regarding reliability, availability, security, or fitness for a particular purpose.
+Restrict access to specific channels.
+Disable features.
+Suspend operation.
+Remove access from users or servers.
+Shut down the service at any time.
 
-9. Limitation of Liability
-To the maximum extent permitted by applicable law, the Bot owner shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from the use or inability to use the Bot.
+No guarantee is made regarding uptime, availability, or continued operation.
 
-10. Changes to These Terms
-These Terms of Service may be updated at any time. Continued use of the Bot after changes are posted constitutes acceptance of the revised Terms.
+4. AI Training and Feedback
 
-11. Contact
-For questions regarding these Terms of Service, contact the Bot owner or administrator within the Thorium Beta Discord server.
+Uni-Chan Thorium is an experimental learning project.
 
-Special Restriction Notice
-This Bot is intended solely for the Discord server "Thorium Beta." Any installation, invitation, deployment, or use outside of Thorium Beta is unauthorized and constitutes a violation of these Terms of Service.
+Users may voluntarily participate in:
+
+Response ratings
+Training reviews
+Model evaluation
+Approved feedback systems
+
+Approved examples may be used to improve future versions of Uni-Chan Thorium as described in the Privacy Policy.
+
+Users should only submit information they have the legal right to share.
+
+5. Acceptable Use
+
+You may not use Uni-Chan Thorium to:
+
+Violate laws or regulations.
+Harass, threaten, impersonate, or abuse others.
+Distribute malicious software.
+Attempt to exploit the Bot.
+Interfere with the operation of the service.
+Bypass access restrictions.
+Use the Bot for spam or mass automated messaging.
+6. Experimental AI Disclaimer
+
+Uni-Chan Thorium is an experimental artificial intelligence system.
+
+The Bot may:
+
+Generate incorrect information.
+Produce incomplete responses.
+Make reasoning errors.
+Produce repetitive or nonsensical answers.
+
+The Bot should not be relied upon for:
+
+Medical advice
+Legal advice
+Financial advice
+Emergency situations
+Safety-critical decisions
+
+Users are responsible for independently verifying important information.
+
+7. User Content
+
+You retain ownership of content you submit.
+
+By interacting with Uni-Chan Thorium, you grant permission for the Bot to process submitted content for:
+
+Generating responses
+Maintaining conversation context
+Evaluation systems
+Approved training workflows
+Improving future versions of the project
+
+This permission is limited to operation and development of Uni-Chan Thorium.
+
+8. Third-Party Services
+
+Uni-Chan Thorium may utilize third-party services including:
+
+Discord
+NVIDIA AI services
+Approved datasets
+Hosting platforms
+Software libraries
+
+The availability and behavior of third-party services are outside the control of the Bot owner.
+
+9. Termination
+
+The Bot owner may:
+
+Remove access to the Bot.
+Restrict commands.
+Block users.
+Remove stored data where appropriate.
+Permanently discontinue the service.
+
+Termination may occur at any time and without prior notice.
+
+10. Limitation of Liability
+
+Uni-Chan Thorium is provided on an "as-is" and "as-available" basis.
+
+To the fullest extent permitted by law, the Bot owner, contributors, and operators are not responsible for:
+
+Data loss
+Service interruption
+Inaccurate responses
+Decisions made using AI-generated content
+Any direct or indirect damages resulting from use of the Bot
+
+Use of Uni-Chan Thorium is entirely at your own risk.
+
+11. Changes to These Terms
+
+These Terms may be updated periodically.
+
+Continued use of Uni-Chan Thorium after changes become effective constitutes acceptance of the revised Terms.
+
+12. Contact
+
+Questions regarding these Terms should be directed to the owner or administrator of Uni-Chan Thorium.
+
+Authorized Server Notice
+
+Uni-Chan Thorium is only intended for use within the Discord servers "Thorium Beta" and "CC: Cosmic Community." Any use, hosting, deployment, or operation of the Bot outside of these two servers is unauthorized unless expressly approved by the Bot owner.
+
+Effective Date: November 10, 2026.
