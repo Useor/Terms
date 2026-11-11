@@ -1,106 +1,214 @@
-1. Introduction
+## Privacy Policy
+Effective Date: November 10, 2026
 
-This Privacy Policy explains how the Bot ("Bot") collects, uses, stores, and protects information when used within the Discord server Thorium Beta.
+Uni-Chan Thorium ("the Bot", "Uni-Chan Thorium", "the Project") is an experimental artificial intelligence project and Discord bot. This Privacy Policy explains how information is collected, used, stored, and processed when you interact with the Bot.
 
-By using the Bot, you acknowledge that you have read and understood this Privacy Policy.
+By using Uni-Chan Thorium, you agree to the practices described in this Privacy Policy.
 
-2. Scope
+1. About Uni-Chan Thorium
 
-This Privacy Policy applies only to the Bot's operation within the Discord server Thorium Beta.
+Uni-Chan Thorium is an experimental Transformer-based AI model developed for educational, research, and learning purposes.
 
-The Bot is not intended for use outside of Thorium Beta.
+The project is designed to:
 
-3. Information Collected
+Generate conversational responses.
+Learn from approved training data.
+Evaluate response quality.
+Improve future model versions through supervised training and feedback.
 
-The Bot may collect and process information necessary to provide its functionality, including:
+Because the project is experimental, responses may be inaccurate, incomplete, or nonsensical.
 
+2. Information We Collect
+
+Uni-Chan Thorium may collect and process:
+
+Discord Information
 Discord User IDs
-Discord Server IDs
+Server IDs
 Channel IDs
+Message IDs
 Command usage
-Messages submitted directly to the Bot
-Conversation content provided to the Bot
-Configuration and preference data
-System logs and diagnostic information
+Conversation Information
+Messages sent directly to the Bot
+Messages directed toward the Bot
+User prompts
+AI-generated replies
+Conversation context required for generating responses
+Feedback Information
+Ratings submitted by users
+Evaluation results
+Training approvals
+Coaching feedback
+Technical Information
+Timestamps
+Error logs
+Runtime logs
+Model version information
+Performance statistics
+3. Temporary Conversation Memory
 
-The Bot does not intentionally collect more information than necessary for its operation.
+To maintain conversational context, Uni-Chan Thorium stores recent conversations in temporary memory.
 
-4. AI Training and User Consent
+Temporary memory:
 
-The Bot may use conversations, prompts, messages, feedback, and interactions within Thorium Beta to improve, develop, evaluate, or train AI systems.
+Exists only while the Bot is running.
+Is not intended as permanent storage.
+Is automatically cleared when the Bot restarts.
+May be manually cleared through available commands.
 
-However:
+This temporary storage is used solely to improve conversation quality and continuity.
 
-AI training will only occur with the user's permission.
-Users may decline participation in AI training.
-Refusing permission will not affect access to the Bot's standard features unless a feature specifically requires data contribution.
-Permission may be requested through commands, forms, settings, or other mechanisms provided by the Bot administrators.
+4. AI Training and Learning
 
-If a user does not provide consent, their content will not be intentionally used for AI training purposes.
+Uni-Chan Thorium is a learning project and may use approved information to improve future versions of the model.
 
-5. How Information Is Used
+Training Data Usage
 
-Information may be used to:
+Ordinary conversations are not automatically added to permanent training datasets solely because a user interacts with the Bot.
 
-Operate the Bot
-Respond to commands and requests
-Improve performance and reliability
-Fix bugs and technical issues
-Prevent abuse or misuse
-Maintain security
-Develop and improve AI-powered features where consent has been granted
-6. Data Sharing
+Training data may only be created through:
 
-The Bot does not sell user information.
+Explicit user approval.
+Administrator-approved training workflows.
+Training review processes.
+Dedicated training commands.
+Approved Examples
 
-Information may only be shared when:
+When approved for training, examples may include:
 
-Required by applicable law.
-Necessary to protect the security or integrity of the Bot.
-Required to investigate abuse, fraud, or violations of the Terms of Service.
-Authorized by the user.
-7. Data Retention
+User prompts
+Assistant responses
+Revised responses
+Evaluation feedback
+Coaching examples
 
-Data will be retained only for as long as reasonably necessary to:
+Approved examples may be added to supervised learning datasets used for future model training.
 
-Operate the Bot.
-Maintain records related to consent.
-Improve services.
-Meet legal or security requirements.
+5. NVIDIA Evaluation Services
 
-Data may be deleted, anonymized, or aggregated at the discretion of the Bot owner.
+When configured by the Bot owner, Uni-Chan Thorium may use NVIDIA AI services to evaluate generated responses.
 
-8. User Rights
+When NVIDIA evaluation is enabled:
 
-Users may request:
+User prompts may be sent to NVIDIA.
+AI responses may be sent to NVIDIA.
+NVIDIA may provide ratings, evaluations, or coaching suggestions.
 
-Information about data collected about them.
-Correction of inaccurate information.
-Withdrawal of previously granted AI-training consent.
-Deletion of eligible stored data, where technically feasible and legally permitted.
+These services are used to:
 
-Requests should be directed to the Bot administrators within Thorium Beta.
+Evaluate response quality.
+Improve generated responses.
+Assist with training workflows.
 
-9. Security
+If NVIDIA services are not enabled, evaluation remains local.
 
-Reasonable measures are taken to protect information from unauthorized access, disclosure, alteration, or destruction.
+Users should assume that prompts and generated responses may be transmitted to NVIDIA whenever NVIDIA-based evaluation features are active.
+
+6. User Ratings
+
+The Bot may request voluntary ratings for generated responses.
+
+Stored rating data may include:
+
+User ID
+Rating value
+Message identifiers
+Channel identifiers
+Server identifiers
+Timestamp
+Model version
+
+Ratings are used for:
+
+Measuring performance
+Improving future versions
+Evaluating response quality
+
+Rating records do not necessarily contain message content.
+
+7. Saved Conversations
+
+By default, conversation content is not permanently archived.
+
+Permanent storage occurs only when:
+
+A user chooses to save conversation data.
+A training workflow requires an approved example.
+An administrator initiates a save operation.
+A coaching workflow explicitly creates a training example.
+
+Saved records may contain:
+
+User prompts
+Assistant responses
+Evaluation notes
+Training metadata
+8. Data Sharing
+
+Uni-Chan Thorium does not sell personal information.
+
+Information may only be shared:
+
+With NVIDIA evaluation services when enabled.
+When required by law.
+To investigate abuse or security issues.
+With user permission.
+When necessary to operate the service.
+9. Data Security
+
+Reasonable steps are taken to protect stored information, including:
+
+Local storage controls
+Access restrictions
+Protected configuration files
+Security-conscious development practices
 
 However, no system can guarantee absolute security.
 
-10. Children's Privacy
+10. User Rights
 
-The Bot is not directed toward individuals under the minimum age required to use Discord under applicable laws and Discord's Terms of Service.
+Users may request:
 
-11. Changes to This Privacy Policy
+Information regarding stored data.
+Deletion of eligible records.
+Removal of approved training examples when technically feasible.
+Withdrawal of future training consent.
+Deletion of saved conversations attributable to them.
 
-This Privacy Policy may be modified at any time.
+Requests should be directed to the Bot owner or server administrators.
 
-Continued use of the Bot after changes become effective constitutes acceptance of the updated Privacy Policy.
+11. Children's Privacy
 
-12. Contact
+Uni-Chan Thorium is not intended for users below the minimum age required by Discord and applicable laws.
 
-Questions regarding this Privacy Policy should be directed to the Bot owner or administrators within the Thorium Beta Discord server.
+12. Experimental AI Disclaimer
+
+Uni-Chan Thorium is an experimental AI system.
+
+Users acknowledge that:
+
+Responses may be incorrect.
+Responses may contain factual errors.
+Responses should not be relied upon for medical, legal, financial, or safety-critical decisions.
+Training methods, datasets, and system behavior may change over time.
+13. Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically.
+
+Continued use of Uni-Chan Thorium following any changes constitutes acceptance of the revised Privacy Policy.
+
+14. Contact
+
+Questions regarding this Privacy Policy should be directed to the owner or administrator of Uni-Chan Thorium.
 
 Consent Notice
 
-By explicitly opting in, users may allow their interactions with the Bot in Thorium Beta to be used for AI training, improvement, evaluation, and development purposes. Users who do not provide consent will not have their content intentionally included in AI training datasets.
+By interacting with Uni-Chan Thorium, you acknowledge that:
+
+Temporary conversation data may be processed to generate responses.
+Feedback and ratings may be stored if submitted.
+Prompts and responses may be sent to NVIDIA when NVIDIA evaluation features are enabled.
+Training data is only created through designated approval, review, or training workflows.
+The project is experimental and continuously evolving.
+
+Effective Date: November 10, 2026.
